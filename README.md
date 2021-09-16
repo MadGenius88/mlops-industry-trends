@@ -1,4 +1,4 @@
-# MLOps Industry Trends (https://github.com/sindresorhus/awesome) [![Up to date](https://img.shields.io/badge/Up%20To-date-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
+# MLOps Industry Trends [![Up to date](https://img.shields.io/badge/Up%20To-date-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
 
 ![MLOps. You Desing It. Your Train It. You Run It.](awesome-mlops-intro.png)
 
